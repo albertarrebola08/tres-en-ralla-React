@@ -19,5 +19,6 @@ Este proyecto es una implementación del juego clásico "Tres en Raya" (Tic Tac 
 
 Puedes jugar al "Tres en Raya" en línea [aquí](https://tres-en-ralla-react.netlify.app).
 
+![image](https://github.com/albertarrebola08/tres-en-ralla-React/assets/104431726/7e4cd51f-e585-4867-8b02-057592acb923)
 
    
